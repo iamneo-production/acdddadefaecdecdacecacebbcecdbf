@@ -1,0 +1,1 @@
+Write-Host "This is some new contents in the new file"
